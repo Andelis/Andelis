@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: etienoandem@gmail.com
 - ⚡ Fun fact: To get it done you have to start it!
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andelis&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
