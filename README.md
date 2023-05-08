@@ -8,8 +8,8 @@ I am a Software Engineer with budding knowldege on a couple of computer Language
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my Coding Skills
-- 🌱 I’m currently learning ALX Software Engineering Programme
+- 🔭 I’m currently advancing my Coding Skills
+- 🌱 I’m currently learning and doing everything to land that job
 - 👯 I’m looking to collaborate on New Stuff for knowledge and all
 - 📫 How to reach me: etienoandem@gmail.com
 - ⚡ Fun fact: To get it done you have to start it!
